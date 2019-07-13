@@ -9,6 +9,5 @@
 ## javaScript相关
 
 1. [由节流函数引发出对event-loop的思考，顺便刷刷爆款题](<https://github.com/lovelmh13/myBlog/issues/1>)
-
-   2.[关于new需要知道的事](<https://github.com/lovelmh13/myBlog/issues/2>)
+2. [关于new需要知道的事](<https://github.com/lovelmh13/myBlog/issues/2>)
 
