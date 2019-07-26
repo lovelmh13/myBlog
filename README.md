@@ -11,6 +11,7 @@
 1. [由节流函数引发出对event-loop的思考，顺便刷刷爆款题](<https://github.com/lovelmh13/myBlog/issues/1>)
 2. [关于new需要知道的事](<https://github.com/lovelmh13/myBlog/issues/2>)
 3. [JavaScript中的多态](<https://github.com/lovelmh13/myBlog/issues/4>)
+4. [异步编程模型中的异常处理链条](<https://github.com/lovelmh13/myBlog/issues/5>)
 
 ## Node.js相关
 
