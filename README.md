@@ -13,6 +13,7 @@
 3. [JavaScript中的多态](<https://github.com/lovelmh13/myBlog/issues/4>)
 4. [异步编程模型中的异常处理链条](<https://github.com/lovelmh13/myBlog/issues/5>)
 5. [使用JSON.stringify查看转义字符](<https://github.com/lovelmh13/myBlog/issues/6>)
+6. [关于async await的特性的理解](<https://github.com/lovelmh13/myBlog/issues/7>)
 
 ## Node.js相关
 
