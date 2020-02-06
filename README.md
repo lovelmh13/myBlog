@@ -16,6 +16,7 @@
 6. [关于async await的特性的理解](<https://github.com/lovelmh13/myBlog/issues/7>)
 7. [a++和++a的区别](https://github.com/lovelmh13/myBlog/issues/9)
 8. [手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
+9. [rest 参数和arguments的区别](https://github.com/lovelmh13/myBlog/issues/10)
 
 ## React相关
 
