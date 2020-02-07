@@ -20,6 +20,10 @@
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
 11. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 
+## 算法
+1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
+2. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
+
 ## React相关
 
 1. [记第一次写react+ts遇到的坑](<https://github.com/lovelmh13/myBlog/issues/8>)
