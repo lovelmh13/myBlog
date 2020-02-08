@@ -27,6 +27,7 @@
 ## React相关
 
 1. [记第一次写react+ts遇到的坑](<https://github.com/lovelmh13/myBlog/issues/8>)
+2. [React ref打印出来的为什么是null](https://github.com/lovelmh13/myBlog/issues/12)
 
 ## Node.js相关
 
