@@ -20,6 +20,9 @@
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
 11. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 
+## CSS相关
+1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
+
 ## 算法
 1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
 2. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
