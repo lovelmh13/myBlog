@@ -20,6 +20,7 @@
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
 11. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 12. [firstChild和firstElementChild的区别](https://github.com/lovelmh13/myBlog/issues/14)
+13. [执行栈和上下文](https://github.com/lovelmh13/myBlog/issues/16)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
