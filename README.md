@@ -25,6 +25,7 @@
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
+2. [web开发中移动端适配](https://github.com/lovelmh13/myBlog/issues/24)
 
 ## 数据结构
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
