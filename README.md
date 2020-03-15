@@ -57,3 +57,5 @@
 2. [使用windows电脑调试IOS实机页面的方法](https://github.com/lovelmh13/myBlog/issues/20)
 3. [在真机上查看控制台的各种信息](https://github.com/lovelmh13/myBlog/issues/21)
 
+## 杂
+1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
