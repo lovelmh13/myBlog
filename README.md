@@ -22,6 +22,7 @@
 12. [firstChild和firstElementChild的区别](https://github.com/lovelmh13/myBlog/issues/14)
 13. [执行栈和上下文](https://github.com/lovelmh13/myBlog/issues/16)
 14. [函数实参与形参在严格模式下有什么不同](https://github.com/lovelmh13/myBlog/issues/17)
+15. [用对象的属性查找数组里的对象](https://github.com/lovelmh13/myBlog/issues/27)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
