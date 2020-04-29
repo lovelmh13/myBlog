@@ -44,6 +44,7 @@
 4. [Vue 2.x 依赖收集](https://github.com/lovelmh13/One-question-a-day/issues/36)
 5. [记怎么用按钮来展开element table](https://github.com/lovelmh13/myBlog/issues/22)
 6. [vue中通过地址遍历图片](https://github.com/lovelmh13/myBlog/issues/29)
+7. [vue eventBus $on 多次触发](https://github.com/lovelmh13/myBlog/issues/31)
 
 ## React相关
 
