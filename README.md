@@ -25,6 +25,7 @@
 15. [用对象的属性查找数组里的对象](https://github.com/lovelmh13/myBlog/issues/27)
 16. [给函数传递不定参数](https://github.com/lovelmh13/myBlog/issues/28)
 18. [window.close的局限性](https://github.com/lovelmh13/myBlog/issues/30)
+19. [关于return和break、continue](https://github.com/lovelmh13/myBlog/issues/32)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
