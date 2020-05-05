@@ -60,6 +60,7 @@
 ## HTTP相关
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
 2. [cookie与domain](https://github.com/lovelmh13/myBlog/issues/26)
+3. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
 
 ## 移动端
 1. [使用windows电脑调式安卓实机页面的方法](https://github.com/lovelmh13/myBlog/issues/19)
