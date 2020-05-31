@@ -53,6 +53,9 @@
 1. [记第一次写react+ts遇到的坑](https://github.com/lovelmh13/myBlog/issues/8)
 2. [React ref打印出来的为什么是null](https://github.com/lovelmh13/myBlog/issues/12)
 
+## 小程序
+1. [小程序使用webpack编译scss成wxss](https://github.com/lovelmh13/myBlog/issues/36)
+
 ## Node.js相关
 
 1. [koa中间件的执行顺序为什么必须保证洋葱模型？](https://github.com/lovelmh13/myBlog/issues/3)
