@@ -32,6 +32,7 @@
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
 2. [web开发中移动端适配](https://github.com/lovelmh13/myBlog/issues/24)
 3. [关于层叠上下文](https://github.com/lovelmh13/myBlog/issues/37)
+4. [使用img当背景，下面有一个几px的白条](https://github.com/lovelmh13/myBlog/issues/39)
 
 ## 数据结构
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
