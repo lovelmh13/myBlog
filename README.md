@@ -75,6 +75,7 @@
 2. [使用windows电脑调试IOS实机页面的方法](https://github.com/lovelmh13/myBlog/issues/20)
 3. [在真机上查看控制台的各种信息](https://github.com/lovelmh13/myBlog/issues/21)
 4. [IOS和安卓的时间区别](https://github.com/lovelmh13/myBlog/issues/25)
+5. [安卓机 文字不能垂直居中](https://github.com/lovelmh13/myBlog/issues/41)
 
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
