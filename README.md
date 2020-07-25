@@ -28,6 +28,7 @@
 19. [关于return和break、continue](https://github.com/lovelmh13/myBlog/issues/32)
 20. [ES6的模块化与 CommonJS](https://github.com/lovelmh13/myBlog/issues/33)
 21. [js中的一些简洁写法](https://github.com/lovelmh13/myBlog/issues/42)
+22. [js 中的类型](https://github.com/lovelmh13/myBlog/issues/43)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
