@@ -51,6 +51,7 @@
 5. [记怎么用按钮来展开element table](https://github.com/lovelmh13/myBlog/issues/22)
 6. [vue中通过地址遍历图片](https://github.com/lovelmh13/myBlog/issues/29)
 7. [vue eventBus $on 多次触发](https://github.com/lovelmh13/myBlog/issues/31)
+8. [v8垃圾清除](https://github.com/lovelmh13/myBlog/issues/44)
 
 ## React相关
 
