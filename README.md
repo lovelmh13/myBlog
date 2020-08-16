@@ -36,6 +36,7 @@
 2. [web开发中移动端适配](https://github.com/lovelmh13/myBlog/issues/24)
 3. [关于层叠上下文](https://github.com/lovelmh13/myBlog/issues/37)
 4. [使用img当背景，下面有一个几px的白条](https://github.com/lovelmh13/myBlog/issues/39)
+5. [stylus一键换肤](https://github.com/lovelmh13/myBlog/issues/46)
 
 ## 数据结构
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
