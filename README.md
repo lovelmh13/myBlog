@@ -31,6 +31,7 @@
 22. [js 中的类型](https://github.com/lovelmh13/myBlog/issues/43)
 23. [几个步骤记住&&和||的结果](https://github.com/lovelmh13/myBlog/issues/45)
 24. [箭头函数和普通函数的区别](https://github.com/lovelmh13/myBlog/issues/47)
+25. [**乘方运算符](https://github.com/lovelmh13/myBlog/issues/48)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
