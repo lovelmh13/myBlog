@@ -84,5 +84,8 @@
 4. [IOS和安卓的时间区别](https://github.com/lovelmh13/myBlog/issues/25)
 5. [安卓机 文字不能垂直居中](https://github.com/lovelmh13/myBlog/issues/41)
 
+## 数学相关
+1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
+
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
