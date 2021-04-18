@@ -33,6 +33,7 @@
 24. [箭头函数和普通函数的区别](https://github.com/lovelmh13/myBlog/issues/47)
 25. [**乘方运算符](https://github.com/lovelmh13/myBlog/issues/48)
 26. [从头学数组 API 之 Array.prototype.copyWithin 的 用法](https://github.com/lovelmh13/myBlog/issues/50)
+27. [for in 遍历顺序](https://github.com/lovelmh13/myBlog/issues/52)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
