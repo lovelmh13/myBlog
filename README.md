@@ -91,5 +91,8 @@
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
 
+## 工具
+1. [VSCode 调试中 launch.json 配置不完全指南](https://github.com/lovelmh13/myBlog/issues/54)
+
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
