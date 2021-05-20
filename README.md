@@ -45,12 +45,12 @@
 5. [stylus一键换肤](https://github.com/lovelmh13/myBlog/issues/46)
 6. [position fixed 定位基于什么来定位](https://github.com/lovelmh13/myBlog/issues/51)
 
-## 数据结构
+## 数据结构与算法
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
+2. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
+3. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
+4. [树的遍历](https://github.com/lovelmh13/myBlog/issues/58)
 
-## 算法
-1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
-2. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
 
 ## Vue相关
 1. [Vue 2.x 的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
