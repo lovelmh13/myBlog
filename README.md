@@ -36,6 +36,7 @@
 27. [for in 遍历顺序](https://github.com/lovelmh13/myBlog/issues/52)
 28. [localStorage 变化监听及自定义事件](https://github.com/lovelmh13/myBlog/issues/53)
 29. [LHS 和 RHS](https://github.com/lovelmh13/myBlog/issues/55)
+30. [创建不可变对象](https://github.com/lovelmh13/myBlog/issues/59)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
