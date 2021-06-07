@@ -38,7 +38,8 @@
 29. [LHS 和 RHS](https://github.com/lovelmh13/myBlog/issues/55)
 30. [创建不可变对象](https://github.com/lovelmh13/myBlog/issues/59)
 31. [实现一个 Set 的 polyfill](https://github.com/lovelmh13/myBlog/issues/60)
-32. [全面的执行上下文与执行栈与块级作用域（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
+32. [上 全面的执行上下文与执行栈与块级作用域（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
+33. [下 变量的查找 —— 作用域链与闭包](https://github.com/lovelmh13/myBlog/issues/64)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
