@@ -20,7 +20,7 @@
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
 11. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 12. [firstChild和firstElementChild的区别](https://github.com/lovelmh13/myBlog/issues/14)
-13. [执行栈和上下文](https://github.com/lovelmh13/myBlog/issues/16)
+13. ～～[执行栈和上下文](https://github.com/lovelmh13/myBlog/issues/16)～～
 14. [函数实参与形参在严格模式下有什么不同](https://github.com/lovelmh13/myBlog/issues/17)
 15. [用对象的属性查找数组里的对象](https://github.com/lovelmh13/myBlog/issues/27)
 16. [给函数传递不定参数](https://github.com/lovelmh13/myBlog/issues/28)
@@ -38,6 +38,7 @@
 29. [LHS 和 RHS](https://github.com/lovelmh13/myBlog/issues/55)
 30. [创建不可变对象](https://github.com/lovelmh13/myBlog/issues/59)
 31. [实现一个 Set 的 polyfill](https://github.com/lovelmh13/myBlog/issues/60)
+32. [全面的执行上下文与执行栈与块级作用于（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
