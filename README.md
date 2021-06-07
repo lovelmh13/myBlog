@@ -38,7 +38,7 @@
 29. [LHS 和 RHS](https://github.com/lovelmh13/myBlog/issues/55)
 30. [创建不可变对象](https://github.com/lovelmh13/myBlog/issues/59)
 31. [实现一个 Set 的 polyfill](https://github.com/lovelmh13/myBlog/issues/60)
-32. [全面的执行上下文与执行栈与块级作用于（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
+32. [全面的执行上下文与执行栈与块级作用域（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
@@ -85,7 +85,7 @@
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
 2. [cookie与domain](https://github.com/lovelmh13/myBlog/issues/26)
 3. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
-4. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)]
+4. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)
 5. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
 6. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
 
