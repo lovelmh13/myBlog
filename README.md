@@ -90,6 +90,9 @@
 6. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
 7. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
 
+## 数据库
+1. [主从库](https://github.com/lovelmh13/myBlog/issues/65)
+
 ## 移动端
 1. [使用windows电脑调式安卓实机页面的方法](https://github.com/lovelmh13/myBlog/issues/19)
 2. [使用windows电脑调试IOS实机页面的方法](https://github.com/lovelmh13/myBlog/issues/20)
