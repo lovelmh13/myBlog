@@ -65,7 +65,6 @@
 5. [记怎么用按钮来展开element table](https://github.com/lovelmh13/myBlog/issues/22)
 6. [vue中通过地址遍历图片](https://github.com/lovelmh13/myBlog/issues/29)
 7. [vue eventBus $on 多次触发](https://github.com/lovelmh13/myBlog/issues/31)
-8. [v8垃圾清除](https://github.com/lovelmh13/myBlog/issues/44)
 
 ## React相关
 
@@ -85,10 +84,11 @@
 ## 浏览器与 HTTP 相关
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
 2. [cookie与domain](https://github.com/lovelmh13/myBlog/issues/26)
-3. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
-4. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)
-5. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
-6. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
+3. [v8垃圾清除](https://github.com/lovelmh13/myBlog/issues/44)
+4. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
+5. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)
+6. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
+7. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
 
 ## 移动端
 1. [使用windows电脑调式安卓实机页面的方法](https://github.com/lovelmh13/myBlog/issues/19)
