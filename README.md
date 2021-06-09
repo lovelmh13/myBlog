@@ -84,11 +84,12 @@
 ## 浏览器与 HTTP 相关
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
 2. [cookie与domain](https://github.com/lovelmh13/myBlog/issues/26)
-3. [v8垃圾清除](https://github.com/lovelmh13/myBlog/issues/44)
+3. ~~[v8垃圾清除](https://github.com/lovelmh13/myBlog/issues/44)~~
 4. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
 5. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)
 6. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
 7. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
+8. [完整版的 V8 垃圾回收机制](https://github.com/lovelmh13/myBlog/issues/66)
 
 ## 数据库
 1. [主从库](https://github.com/lovelmh13/myBlog/issues/65)
