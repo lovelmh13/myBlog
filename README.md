@@ -56,6 +56,7 @@
 4. [树的遍历](https://github.com/lovelmh13/myBlog/issues/58)
 5. [回溯法](https://github.com/lovelmh13/myBlog/issues/61)
 6. [递归](https://github.com/lovelmh13/myBlog/issues/67)
+7. [双指针](https://github.com/lovelmh13/myBlog/issues/68)
 
 
 ## Vue相关
