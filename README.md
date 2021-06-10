@@ -92,6 +92,7 @@
 6. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
 7. [输入 url 页面展示都发生了什么](https://github.com/lovelmh13/myBlog/issues/62)
 8. [完整版的 V8 垃圾回收机制](https://github.com/lovelmh13/myBlog/issues/66)
+9. [HTTP 协议](https://github.com/lovelmh13/myBlog/issues/69)
 
 ## 数据库
 1. [主从库](https://github.com/lovelmh13/myBlog/issues/65)
