@@ -18,7 +18,7 @@
 8. [手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 9. [rest 参数和arguments的区别](https://github.com/lovelmh13/myBlog/issues/10)
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
-11. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
+11. ~~[词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)~~
 12. [firstChild和firstElementChild的区别](https://github.com/lovelmh13/myBlog/issues/14)
 13. ~~[执行栈和上下文](https://github.com/lovelmh13/myBlog/issues/16)~~
 14. [函数实参与形参在严格模式下有什么不同](https://github.com/lovelmh13/myBlog/issues/17)
