@@ -95,6 +95,9 @@
 9. [HTTP 协议](https://github.com/lovelmh13/myBlog/issues/69)
 10. [HTTPS](https://github.com/lovelmh13/myBlog/issues/70)
 
+## 计算机
+1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
+
 ## 数据库
 1. [主从库](https://github.com/lovelmh13/myBlog/issues/65)
 
