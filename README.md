@@ -41,6 +41,7 @@
 32. [上 全面的执行上下文与执行栈与块级作用域（写于 2021.6.7）](https://github.com/lovelmh13/myBlog/issues/63)
 33. [下 变量的查找 —— 作用域链与闭包](https://github.com/lovelmh13/myBlog/issues/64)
 34. [一步一步手动实现一个 bind](https://github.com/lovelmh13/myBlog/issues/72)
+35. [手写实现 apply](https://github.com/lovelmh13/myBlog/issues/73)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
