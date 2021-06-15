@@ -4,8 +4,6 @@
 
 希望大家指出文章中存在的问题
 
-[我的掘金专栏](https://juejin.im/user/5b6c50d9e51d4513ee6e24ae/posts)
-
 ## javaScript相关
 
 1. [由节流函数引发出对event-loop的思考，顺便刷刷爆款题](<https://github.com/lovelmh13/myBlog/issues/1>)
