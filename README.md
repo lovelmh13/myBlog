@@ -42,6 +42,7 @@
 33. [下 变量的查找 —— 作用域链与闭包](https://github.com/lovelmh13/myBlog/issues/64)
 34. [一步一步手动实现一个 bind](https://github.com/lovelmh13/myBlog/issues/72)
 35. [手写实现 apply](https://github.com/lovelmh13/myBlog/issues/73)
+36. [JavaScript 实现精准定时](https://github.com/lovelmh13/myBlog/issues/75)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
