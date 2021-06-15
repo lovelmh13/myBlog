@@ -98,6 +98,7 @@
 8. [完整版的 V8 垃圾回收机制](https://github.com/lovelmh13/myBlog/issues/66)
 9. [HTTP 协议](https://github.com/lovelmh13/myBlog/issues/69)
 10. [HTTPS](https://github.com/lovelmh13/myBlog/issues/70)
+11. [写一个 http1 协议 和 websocket 协议](https://github.com/lovelmh13/myBlog/issues/74)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
