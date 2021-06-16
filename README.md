@@ -97,6 +97,7 @@
 9. [HTTP 协议](https://github.com/lovelmh13/myBlog/issues/69)
 10. [HTTPS](https://github.com/lovelmh13/myBlog/issues/70)
 11. [写一个 http1 协议 和 websocket 协议](https://github.com/lovelmh13/myBlog/issues/76)
+12. [浏览器的事件循环](https://github.com/lovelmh13/myBlog/issues/77)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
