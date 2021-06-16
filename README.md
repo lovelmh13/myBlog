@@ -49,6 +49,8 @@
 4. [使用img当背景，下面有一个几px的白条](https://github.com/lovelmh13/myBlog/issues/39)
 5. [stylus一键换肤](https://github.com/lovelmh13/myBlog/issues/46)
 6. [position fixed 定位基于什么来定位](https://github.com/lovelmh13/myBlog/issues/51)
+7. [flex 指定了宽度，依然会被压缩宽度](https://github.com/lovelmh13/myBlog/issues/80)
+8. [font-size 和 line-height](https://github.com/lovelmh13/myBlog/issues/81)
 
 ## 数据结构与算法
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
@@ -111,6 +113,10 @@
 3. [在真机上查看控制台的各种信息](https://github.com/lovelmh13/myBlog/issues/21)
 4. [IOS和安卓的时间区别](https://github.com/lovelmh13/myBlog/issues/25)
 5. [安卓机 文字不能垂直居中](https://github.com/lovelmh13/myBlog/issues/41)
+
+## babel
+1. [last 2 versions 的含义](https://github.com/lovelmh13/myBlog/issues/78)
+2. [polyfill](https://github.com/lovelmh13/myBlog/issues/79)
 
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
