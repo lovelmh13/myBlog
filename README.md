@@ -104,6 +104,7 @@
 12. [浏览器的事件循环](https://github.com/lovelmh13/myBlog/issues/77)
 13. [TCP](https://github.com/lovelmh13/myBlog/issues/83)
 14. [cookie、session 和 token](https://github.com/lovelmh13/myBlog/issues/85)
+15. [Vue 为什么不要用 index 作为 key](https://github.com/lovelmh13/myBlog/issues/86)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
