@@ -74,6 +74,7 @@
 6. [vue中通过地址遍历图片](https://github.com/lovelmh13/myBlog/issues/29)
 7. [vue eventBus $on 多次触发](https://github.com/lovelmh13/myBlog/issues/31)
 8. [Vue 为什么不要用 index 作为 key](https://github.com/lovelmh13/myBlog/issues/86)
+9. [vue 父子组件生命周期的执行顺序](https://github.com/lovelmh13/myBlog/issues/88)
 
 ## React相关
 
