@@ -41,7 +41,7 @@
 34. [一步一步手动实现一个 bind](https://github.com/lovelmh13/myBlog/issues/72)
 35. [手写实现 apply](https://github.com/lovelmh13/myBlog/issues/73)
 36. [JavaScript 实现精准定时](https://github.com/lovelmh13/myBlog/issues/75)
-37. [原型链](https://github.com/lovelmh13/myBlog/issues/82)
+37. [原型和原型链](https://github.com/lovelmh13/myBlog/issues/82)
 38. [箭头函数为什么不能做构造函数，它与普通函数有什么区别](https://github.com/lovelmh13/myBlog/issues/90)
 39. [为什么 null >= 0 是 true，但是 null == 0 是 false (隐式类型转换)](https://github.com/lovelmh13/myBlog/issues/91)
 
