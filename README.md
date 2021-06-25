@@ -42,6 +42,7 @@
 35. [手写实现 apply](https://github.com/lovelmh13/myBlog/issues/73)
 36. [JavaScript 实现精准定时](https://github.com/lovelmh13/myBlog/issues/75)
 37. [原型链](https://github.com/lovelmh13/myBlog/issues/82)
+38. [箭头函数为什么不能做构造函数，它与普通函数有什么区别](https://github.com/lovelmh13/myBlog/issues/90)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
