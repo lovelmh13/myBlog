@@ -13,7 +13,7 @@
 5. [使用JSON.stringify查看转义字符](<https://github.com/lovelmh13/myBlog/issues/6>)
 6. [关于async await的特性的理解](<https://github.com/lovelmh13/myBlog/issues/7>)
 7. [a++和++a的区别](https://github.com/lovelmh13/myBlog/issues/9)
-8. [手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
+8. [分步骤实现 A+ 规范的 Promise](https://github.com/lovelmh13/One-question-a-day/issues/55)
 9. [rest 参数和arguments的区别](https://github.com/lovelmh13/myBlog/issues/10)
 10. [快速区分class的静态和私有的概念](https://github.com/lovelmh13/myBlog/issues/11)
 11. ~~[词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)~~
