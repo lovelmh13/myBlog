@@ -104,7 +104,7 @@
 4. [http 请求头 Referer](https://github.com/lovelmh13/myBlog/issues/34)
 5. [HTTP/2 与 HTTPS 的关系](https://github.com/lovelmh13/myBlog/issues/56)
 6. [浏览器缓存](https://github.com/lovelmh13/myBlog/issues/57)
-7. [输入 url 页面展示都发生了什么（包括重排 重绘）](https://github.com/lovelmh13/myBlog/issues/62)
+7. [输入 url 页面展示都发生了什么（包括重绘 重排）](https://github.com/lovelmh13/myBlog/issues/62)
 8. [完整版的 V8 垃圾回收机制](https://github.com/lovelmh13/myBlog/issues/66)
 9. [HTTP 协议](https://github.com/lovelmh13/myBlog/issues/69)
 10. [HTTPS](https://github.com/lovelmh13/myBlog/issues/70)
