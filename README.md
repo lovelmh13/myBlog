@@ -136,6 +136,9 @@
 1. [last 2 versions 的含义](https://github.com/lovelmh13/myBlog/issues/78)
 2. [polyfill](https://github.com/lovelmh13/myBlog/issues/79)
 
+## 服务器
+1. [服务器清除npm自动升级失败的进程](https://github.com/lovelmh13/myBlog/issues/96)
+
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
 
