@@ -83,6 +83,7 @@
 8. [Vue 为什么不要用 index 作为 key](https://github.com/lovelmh13/myBlog/issues/86)
 9. [vue 父子组件生命周期的执行顺序](https://github.com/lovelmh13/myBlog/issues/88)
 10. [Vue 中的 computed 、methods、watch 的区别](https://github.com/lovelmh13/myBlog/issues/89)
+11. [关于 vue 的 $nextTick](https://github.com/lovelmh13/myBlog/issues/103)
 
 ## React相关
 
