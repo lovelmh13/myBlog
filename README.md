@@ -47,6 +47,7 @@
 40. [为什么 null >= 0 是 true，但是 null == 0 是 false (隐式类型转换)](https://github.com/lovelmh13/myBlog/issues/91)
 41. [创建一个纯的空对象 —— Object.create](https://github.com/lovelmh13/myBlog/issues/92)
 42. [实现深拷贝](https://github.com/lovelmh13/myBlog/issues/102)
+43. [关于 requestAnimationFrame](https://github.com/lovelmh13/myBlog/issues/106)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
