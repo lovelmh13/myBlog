@@ -118,6 +118,7 @@
 13. [TCP](https://github.com/lovelmh13/myBlog/issues/83)
 14. [cookie、session 和 token](https://github.com/lovelmh13/myBlog/issues/85)
 15. [页面阻塞](https://github.com/lovelmh13/myBlog/issues/101)
+16. [session 到底是个啥，不要跟 session id 搞混了](https://github.com/lovelmh13/myBlog/issues/108)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
