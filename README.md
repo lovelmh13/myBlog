@@ -134,6 +134,7 @@
 4. [IOS和安卓的时间区别](https://github.com/lovelmh13/myBlog/issues/25)
 5. [安卓机 文字不能垂直居中](https://github.com/lovelmh13/myBlog/issues/41)
 6. [H5 页面在 客户端 webview 的加载，怎么可以提高加载速度](https://github.com/lovelmh13/myBlog/issues/100)
+7. [关于签名和加密](https://github.com/lovelmh13/myBlog/issues/109)
 
 ## 工程化
 
