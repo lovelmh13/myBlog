@@ -149,6 +149,9 @@
 ## 服务器
 1. [服务器清除npm自动升级失败的进程](https://github.com/lovelmh13/myBlog/issues/96)
 
+## 设计模式
+1. [观察者和发布订阅的区别](https://github.com/lovelmh13/myBlog/issues/111)
+
 ## Elasticsearch
 1. [es 中 [{}] 格式的数据查询](https://github.com/lovelmh13/myBlog/issues/97)
 2. [Elasticsearch 更新数据的坑](https://github.com/lovelmh13/myBlog/issues/98)
