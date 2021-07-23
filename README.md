@@ -59,6 +59,7 @@
 6. [position fixed 定位基于什么来定位](https://github.com/lovelmh13/myBlog/issues/51)
 7. [flex 指定了宽度，依然会被压缩宽度](https://github.com/lovelmh13/myBlog/issues/80)
 8. [font-size 和 line-height](https://github.com/lovelmh13/myBlog/issues/81)
+9. [IFC](https://github.com/lovelmh13/myBlog/issues/113)
 
 ## 数据结构与算法
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
