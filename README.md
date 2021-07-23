@@ -167,6 +167,7 @@
 1. [es 中 [{}] 格式的数据查询](https://github.com/lovelmh13/myBlog/issues/97)
 2. [Elasticsearch 更新数据的坑](https://github.com/lovelmh13/myBlog/issues/98)
 3. [ES 不允许修改操作](https://github.com/lovelmh13/myBlog/issues/123)
+4. [ES 的几种分页方式](https://github.com/lovelmh13/myBlog/issues/124)
 
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
