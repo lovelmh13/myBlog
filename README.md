@@ -145,6 +145,8 @@
 5. [安卓机 文字不能垂直居中](https://github.com/lovelmh13/myBlog/issues/41)
 6. [H5 页面在 客户端 webview 的加载，怎么可以提高加载速度](https://github.com/lovelmh13/myBlog/issues/100)
 7. [IOS margin-bottom 撑开屏幕底部失效](https://github.com/lovelmh13/myBlog/issues/114)
+8. [网页适配 iPhone](https://github.com/lovelmh13/myBlog/issues/121)
+9. [背景变暗与毛玻璃效果](https://github.com/lovelmh13/myBlog/issues/122)
 
 ## 工程化
 
