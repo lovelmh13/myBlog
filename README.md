@@ -63,6 +63,8 @@
 10. [IOS Safari/webview input:disabled时 颜色变浅的兼容](https://github.com/lovelmh13/myBlog/issues/116)
 11. [js 与 css 变量](https://github.com/lovelmh13/myBlog/issues/117)
 12. [transform 与 inline 元素的关系](https://github.com/lovelmh13/myBlog/issues/118)
+13. [使用 flex 时全面屏 iPhone 的底部样式问题](https://github.com/lovelmh13/myBlog/issues/119)
+14. [内容溢出时，无论如何都要显示全部内容，让内容自动换行](https://github.com/lovelmh13/myBlog/issues/120)
 
 ## 数据结构与算法
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
