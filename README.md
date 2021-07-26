@@ -178,6 +178,7 @@
 ## 服务器
 1. [服务器清除npm自动升级失败的进程](https://github.com/lovelmh13/myBlog/issues/96)
 2. [crontab 执行 shell 脚本报错：node: command not found](https://github.com/lovelmh13/myBlog/issues/156)
+3. [htop](https://github.com/lovelmh13/myBlog/issues/157)
 
 ## 设计模式
 1. [观察者和发布订阅的区别](https://github.com/lovelmh13/myBlog/issues/111)
