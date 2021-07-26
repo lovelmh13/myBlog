@@ -181,6 +181,7 @@
 
 ## MyCat
 1. [MyCat 做了什么事情](https://github.com/lovelmh13/myBlog/issues/137)
+2. [防止 MyCat 吞掉某些字符](https://github.com/lovelmh13/myBlog/issues/138)
 
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
