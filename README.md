@@ -51,6 +51,7 @@
 44. [为什么使用正则test( )第一次是 true,第二次是false？](https://github.com/lovelmh13/myBlog/issues/110)
 45. [setTimeut 延迟时间](https://github.com/lovelmh13/myBlog/issues/130)
 46. [void 与 立即执行函数表达式](https://github.com/lovelmh13/myBlog/issues/132)
+47. [关于 Error](https://github.com/lovelmh13/myBlog/issues/133)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
