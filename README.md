@@ -55,7 +55,7 @@
 48. [副作用](https://github.com/lovelmh13/myBlog/issues/134)
 49. [精确到秒的日期加减](https://github.com/lovelmh13/myBlog/issues/135)
 50. [运算符](https://github.com/lovelmh13/myBlog/issues/136)
-51. [MyCat 做了什么事情](https://github.com/lovelmh13/myBlog/issues/137)
+51. 
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
@@ -178,6 +178,9 @@
 4. [ES 的几种分页方式](https://github.com/lovelmh13/myBlog/issues/124)
 5. [keyword](https://github.com/lovelmh13/myBlog/issues/125)
 6. [ES 操作集群](https://github.com/lovelmh13/myBlog/issues/126)
+
+## MyCat
+1. [MyCat 做了什么事情](https://github.com/lovelmh13/myBlog/issues/137)
 
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
