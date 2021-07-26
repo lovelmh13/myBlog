@@ -55,7 +55,6 @@
 48. [副作用](https://github.com/lovelmh13/myBlog/issues/134)
 49. [精确到秒的日期加减](https://github.com/lovelmh13/myBlog/issues/135)
 50. [运算符](https://github.com/lovelmh13/myBlog/issues/136)
-51. 
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
@@ -143,6 +142,7 @@
 16. [session 到底是个啥，不要跟 session id 搞混了](https://github.com/lovelmh13/myBlog/issues/108)
 17. [正向代理和反向代理](https://github.com/lovelmh13/myBlog/issues/112)
 18. [Chrome 80+的 第三方 cookie 变动](https://github.com/lovelmh13/myBlog/issues/159)
+19. [time-wait](https://github.com/lovelmh13/myBlog/issues/160)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
