@@ -199,6 +199,7 @@
 
 ## 工具
 1. [VSCode 调试中 launch.json 配置不完全指南](https://github.com/lovelmh13/myBlog/issues/54)
+2. [使用VSCode 调试node](https://github.com/lovelmh13/myBlog/issues/144)
 
 ## GIT
 1. [git pull 时出现 Found a swap file by the name ".git/.MERGE_MSG.swp" 的问题](https://github.com/lovelmh13/myBlog/issues/127)
