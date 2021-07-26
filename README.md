@@ -150,6 +150,7 @@
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
 2. [关于签名和加密](https://github.com/lovelmh13/myBlog/issues/109)
+3. [socket、端口、进程的关系](https://github.com/lovelmh13/myBlog/issues/165)
 
 ## 数据库
 1. [主从库](https://github.com/lovelmh13/myBlog/issues/65)
@@ -169,6 +170,7 @@
 8. [网页适配 iPhone](https://github.com/lovelmh13/myBlog/issues/121)
 9. [背景变暗与毛玻璃效果](https://github.com/lovelmh13/myBlog/issues/122)
 10. [安卓手机，播放视频 webview 抛出异常的原因及解决方法](https://github.com/lovelmh13/myBlog/issues/164)
+11. [在PC端模拟微信环境](https://github.com/lovelmh13/myBlog/issues/166)
 
 ## 工程化
 
