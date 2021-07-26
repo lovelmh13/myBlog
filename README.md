@@ -119,6 +119,7 @@
 3. [koa 的核心实现](https://github.com/lovelmh13/myBlog/issues/115)
 4. [child_process 子进程的 env 的值](https://github.com/lovelmh13/myBlog/issues/140)
 5. [Koa 的中间件为什么不要使用 new](https://github.com/lovelmh13/myBlog/issues/141)
+6. [项目已经运行起来后，删除 node_modules 依然可以运行（ Node 的模块缓存机制 ）](https://github.com/lovelmh13/myBlog/issues/146)
 
 ## 浏览器与 HTTP 相关
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
