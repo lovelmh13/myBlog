@@ -173,6 +173,9 @@
 ## 设计模式
 1. [观察者和发布订阅的区别](https://github.com/lovelmh13/myBlog/issues/111)
 
+## npm
+1. [查看 npm 包安装时的详细信息](https://github.com/lovelmh13/myBlog/issues/142)
+
 ## Elasticsearch
 1. [es 中 [{}] 格式的数据查询](https://github.com/lovelmh13/myBlog/issues/97)
 2. [Elasticsearch 更新数据的坑](https://github.com/lovelmh13/myBlog/issues/98)
@@ -197,7 +200,9 @@
 ## GIT
 1. [git pull 时出现 Found a swap file by the name ".git/.MERGE_MSG.swp" 的问题](https://github.com/lovelmh13/myBlog/issues/127)
 2. [Git 大小写不敏感](https://github.com/lovelmh13/myBlog/issues/128)
-3. [发布及引用一个npm的流程 / 打tag的流程](https://github.com/lovelmh13/myBlog/issues/129)
+3. [发布及引用一个
+
+的流程 / 打tag的流程](https://github.com/lovelmh13/myBlog/issues/129)
 
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
