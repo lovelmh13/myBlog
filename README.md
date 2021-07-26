@@ -191,6 +191,9 @@
 1. [MyCat 做了什么事情](https://github.com/lovelmh13/myBlog/issues/137)
 2. [防止 MyCat 吞掉某些字符](https://github.com/lovelmh13/myBlog/issues/138)
 
+## PM2
+1. [PM2 查看、新建、操作项目](https://github.com/lovelmh13/myBlog/issues/143)
+
 ## 数学相关
 1. [% 符号的 mod 取模和 rem 取余 ](https://github.com/lovelmh13/myBlog/issues/49)
 
