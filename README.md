@@ -56,6 +56,7 @@
 49. [精确到秒的日期加减](https://github.com/lovelmh13/myBlog/issues/135)
 50. [运算符](https://github.com/lovelmh13/myBlog/issues/136)
 51. [浏览器控制台可以直接看 unicode 编码的文字](https://github.com/lovelmh13/myBlog/issues/162)
+52. [页面性能收集](https://github.com/lovelmh13/myBlog/issues/163)
 
 ## CSS相关
 1. [input从右到左显示文字，并且光标始终在右侧。text-align和direction的区别](https://github.com/lovelmh13/myBlog/issues/13)
