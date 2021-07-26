@@ -100,6 +100,7 @@
 9. [vue 父子组件生命周期的执行顺序](https://github.com/lovelmh13/myBlog/issues/88)
 10. [Vue 中的 computed 、methods、watch 的区别](https://github.com/lovelmh13/myBlog/issues/89)
 11. [关于 vue 的 $nextTick](https://github.com/lovelmh13/myBlog/issues/103)
+12. [vue-router 3.1.0+ 版本 跳转到当前路径会报错](https://github.com/lovelmh13/myBlog/issues/151)
 
 ## React相关
 
