@@ -179,6 +179,9 @@
 5. [keyword](https://github.com/lovelmh13/myBlog/issues/125)
 6. [ES 操作集群](https://github.com/lovelmh13/myBlog/issues/126)
 
+## nginx
+1. [$bytes_sent、$body_bytes_sent、$content_length、$request_length、$upstream_response_length详解](https://github.com/lovelmh13/myBlog/issues/139)
+
 ## MyCat
 1. [MyCat 做了什么事情](https://github.com/lovelmh13/myBlog/issues/137)
 2. [防止 MyCat 吞掉某些字符](https://github.com/lovelmh13/myBlog/issues/138)
