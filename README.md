@@ -142,6 +142,7 @@
 15. [页面阻塞](https://github.com/lovelmh13/myBlog/issues/101)
 16. [session 到底是个啥，不要跟 session id 搞混了](https://github.com/lovelmh13/myBlog/issues/108)
 17. [正向代理和反向代理](https://github.com/lovelmh13/myBlog/issues/112)
+18. [Chrome 80+的 第三方 cookie 变动](https://github.com/lovelmh13/myBlog/issues/159)
 
 ## 计算机
 1. [计算机解析的套路](https://github.com/lovelmh13/myBlog/issues/71)
