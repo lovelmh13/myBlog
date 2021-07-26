@@ -118,6 +118,7 @@
 2. [node 容灾](https://github.com/lovelmh13/myBlog/issues/104)
 3. [koa 的核心实现](https://github.com/lovelmh13/myBlog/issues/115)
 4. [child_process 子进程的 env 的值](https://github.com/lovelmh13/myBlog/issues/140)
+5. [Koa 的中间件为什么不要使用 new](https://github.com/lovelmh13/myBlog/issues/141)
 
 ## 浏览器与 HTTP 相关
 1. [OPTIONS预检相关内容](https://github.com/lovelmh13/myBlog/issues/15)
