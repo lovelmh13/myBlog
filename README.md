@@ -169,6 +169,7 @@
 
 ### webpack
 1. [webpack 的 loader 和 plugin 的区别](https://github.com/lovelmh13/myBlog/issues/87)
+2. [页面提示 Invalid Host header](https://github.com/lovelmh13/myBlog/issues/153)
 
 ### babel
 1. [last 2 versions 的含义](https://github.com/lovelmh13/myBlog/issues/78)
