@@ -66,6 +66,7 @@
 12. [transform 与 inline 元素的关系](https://github.com/lovelmh13/myBlog/issues/118)
 13. [使用 flex 时全面屏 iPhone 的底部样式问题](https://github.com/lovelmh13/myBlog/issues/119)
 14. [内容溢出时，无论如何都要显示全部内容，让内容自动换行](https://github.com/lovelmh13/myBlog/issues/120)
+15. [swiper 滚动时 内容闪烁的解决办法](https://github.com/lovelmh13/myBlog/issues/131)
 
 ## 数据结构与算法
 1. [堆](https://github.com/lovelmh13/myBlog/issues/18)
