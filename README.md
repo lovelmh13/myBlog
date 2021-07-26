@@ -150,6 +150,7 @@
 2. [为什么要分库分表](https://github.com/lovelmh13/myBlog/issues/94)
 3. [COMMENT 注释](https://github.com/lovelmh13/myBlog/issues/148)
 4. [mysql 版本号比较](https://github.com/lovelmh13/myBlog/issues/149)
+5. [在 sequelize 中使用 sql 条件判断](https://github.com/lovelmh13/myBlog/issues/150)
 
 ## 移动端
 1. [使用windows电脑调式安卓实机页面的方法](https://github.com/lovelmh13/myBlog/issues/19)
