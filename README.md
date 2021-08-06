@@ -225,9 +225,8 @@
 ## GIT
 1. [git pull 时出现 Found a swap file by the name ".git/.MERGE_MSG.swp" 的问题](https://github.com/lovelmh13/myBlog/issues/127)
 2. [Git 大小写不敏感](https://github.com/lovelmh13/myBlog/issues/128)
-3. [发布及引用一个
-
-的流程 / 打tag的流程](https://github.com/lovelmh13/myBlog/issues/129)
+3. [发布及引用一个的流程 / 打tag的流程](https://github.com/lovelmh13/myBlog/issues/129)
+4. [git clone 443](https://github.com/lovelmh13/myBlog/issues/169)
 
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
