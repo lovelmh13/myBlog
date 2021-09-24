@@ -195,6 +195,7 @@
 
 ## npm
 1. [查看 npm 包安装时的详细信息](https://github.com/lovelmh13/myBlog/issues/142)
+2. [package.json 的版本号以及 npm publish 发布测试包](https://github.com/lovelmh13/myBlog/issues/170)
 
 ## Elasticsearch
 1. [es 中 [{}] 格式的数据查询](https://github.com/lovelmh13/myBlog/issues/97)
