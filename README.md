@@ -183,6 +183,7 @@
 2. [页面提示 Invalid Host header](https://github.com/lovelmh13/myBlog/issues/153)
 3. [修改了 hosts 文件以后用域名代替 ip 访问本地项目出现「Invalid Host header](https://github.com/lovelmh13/myBlog/issues/172)
 4. [MemoryFS 和 webpack](https://github.com/lovelmh13/myBlog/issues/177)
+5. [如何编写 loader](https://github.com/lovelmh13/myBlog/issues/178)
 
 ### babel
 1. [last 2 versions 的含义](https://github.com/lovelmh13/myBlog/issues/78)
