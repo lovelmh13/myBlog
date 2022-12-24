@@ -114,6 +114,7 @@
 
 ## 小程序
 1. [小程序使用webpack编译scss成wxss](https://github.com/lovelmh13/myBlog/issues/36)
+2. [小程序的双线程带来了什么](https://github.com/lovelmh13/myBlog/issues/179)
 
 ## Taro
 1. [Taro+TS 写小程序 淌水之路 ](https://github.com/lovelmh13/myBlog/issues/40)
