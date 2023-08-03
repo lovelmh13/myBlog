@@ -105,6 +105,7 @@
 11. [关于 vue 的 $nextTick](https://github.com/lovelmh13/myBlog/issues/103)
 12. [vue-router 3.1.0+ 版本 跳转到当前路径会报错](https://github.com/lovelmh13/myBlog/issues/151)
 13. [vue 两个数据互相 watch 为什么不会无限循环](https://github.com/lovelmh13/myBlog/issues/152)
+14. [vue 的局限](https://github.com/lovelmh13/myBlog/issues/180)
 
 ## React相关
 
