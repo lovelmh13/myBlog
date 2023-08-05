@@ -243,3 +243,4 @@
 3. [JSON schema 与 JSON DSL](https://github.com/lovelmh13/myBlog/issues/155)
 4. [mac 终端提示「you have mail」](https://github.com/lovelmh13/myBlog/issues/171)
 5. [程序员需要学会画什么图（pending）](https://github.com/lovelmh13/myBlog/issues/175)
+6. [小白的 frida hook 教程](https://github.com/lovelmh13/myBlog/issues/181)
