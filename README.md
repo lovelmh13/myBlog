@@ -236,6 +236,7 @@
 2. [Git 大小写不敏感](https://github.com/lovelmh13/myBlog/issues/128)
 3. [发布及引用一个的流程 / 打tag的流程](https://github.com/lovelmh13/myBlog/issues/129)
 4. [git clone 443](https://github.com/lovelmh13/myBlog/issues/169)
+5. [git rebase 操作](https://github.com/lovelmh13/myBlog/issues/182)
 
 ## 杂
 1. [跳转以后如何还能获取之前的数据](https://github.com/lovelmh13/myBlog/issues/23)
