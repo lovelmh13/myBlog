@@ -5,7 +5,7 @@
 希望大家指出文章中存在的问题
 
 ## HTML 相关
-1. [crossorigin 属性的重要性](<https://github.com/lovelmh13/myBlog/issues/84>)
+1. [crossorigin 属性的重要性](<https://github.com/lovelmh13/myBlog/issues/184>)
 
 ## javaScript相关
 
