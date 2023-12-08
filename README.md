@@ -4,6 +4,9 @@
 
 希望大家指出文章中存在的问题
 
+## HTML 相关
+1. [crossorigin 属性的重要性](<https://github.com/lovelmh13/myBlog/issues/84>)
+
 ## javaScript相关
 
 1. [由节流函数引发出对event-loop的思考，顺便刷刷爆款题](<https://github.com/lovelmh13/myBlog/issues/1>)
